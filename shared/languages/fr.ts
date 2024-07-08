@@ -1124,7 +1124,7 @@ export const FR = {
    TempleOfHeavenDesc: "Tous les bâtiments de niveau 10 ou supérieur gagnent +1 Multiplicateur de Capacité des Ouvriers",
    TempleOfPtah: "Temple de Ptah",
    TerracottaArmy: "Armée de terre cuite",
-   TerracottaArmyDesc: "Tous les camps miniers de fer gagnent +1 Multiplicateur de Production, Multiplicateur de Capacité des Ouvriers et Multiplicateur de Stockage. Les forges de fer gagnent +1 Multiplicateur de Production pour chaque camp minier de fer adjacent",
+   TerracottaArmyDesc: "Tous les camps miniers de fer gagnent +1 Multiplicateur de Production, Multiplicateur de Capacité des Ouvriers et Multiplicateur de Stockage. Les forges de fer gagnent +1 Multiplicateur de Production pour chaque camp minier de fer construit sur un gisement de fer et adjacent",
    Theater: "Théâtre",
    Theme: "Thème",
    ThemeColor: "Couleur du thème",
