@@ -123,7 +123,7 @@ export const FR = {
    BobHope: "Bob Hope",
    BobHopeDesc: "+%{value} Bonheur",
    Bond: "Obligation financière",
-   BondMarket: "Marché obligatoire",
+   BondMarket: "Marché obligataire",
    Book: "Livre",
    BoostDescription: "+%{value} %{multipliers} pour %{buildings}",
    Borobudur: "Borobudur",
